@@ -4,3 +4,5 @@ http.cors.allow-origin: "*"
 http.cors.enabled: true
 http.cors.allow-headers : X-Requested-With,X-Auth-Token,Content-Type,Content-Length,Authorization
 http.cors.allow-credentials: true
+
+bootstrap.system_call_filter: false
